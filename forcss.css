@@ -30,3 +30,17 @@ section{
     color: white;
     font-weight: 400;
 }
+.divbatman {
+    width: 50%;
+    padding: 5px;
+}
+.divbatman a{
+    text-decoration: none;
+    background-image: linear-gradient(white, grey);
+    padding: 10px 5px;
+    border-radius: 5px;
+    color: white;
+}
+.divbatman img{
+    width: 80%;
+}
