@@ -7,3 +7,16 @@ h1 {
     font-size: 50px;
     margin-left: 5px;
 }
+.colorwillbe{
+    color: purple;
+}
+section{
+    display: flex;
+}
+.widthwillbe{
+    width: 50%;
+}
+.widthwillbe img{
+    width: 100%;
+    height: auto;;
+}
